@@ -1,0 +1,7 @@
+OpenAI Agents
+=============
+
+Implementation of generative agents based on the paper "Generative Agents:
+Interactive Simulacra of Human Behavior". It's currently quite limited in scope
+(only one agent, no interaction with the world), due to problems getting good
+position information (section 5.1 in the paper) out of the language model.
